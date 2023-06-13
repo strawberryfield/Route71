@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Route71": {
+      "commandName": "Project",
+      "commandLineArgs": "--tag=\"Badia Prataglia;Cancellino;Passo dei Mandrioli;Le Docce\" C:\\foto\\route71\\selezionate\\01.jpg C:\\foto\\route71\\selezionate\\02.jpg C:\\foto\\route71\\selezionate\\03.jpg C:\\foto\\route71\\selezionate\\04.jpg"
+    }
+  }
+}
